@@ -12,5 +12,12 @@ Disallow: /art.html
 Disallow: /projects.html
 Disallow: /radio.html
 
+User-agent: AdldxBot
+Disallow: /experience.html
+Disallow: /achievements.html
+Disallow: /art.html
+Disallow: /projects.html
+Disallow: /radio.html
+
 User-agent: *
 Allow: /

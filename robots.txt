@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /experience.html
+Disallow: /achievements.html
+Disallow: /art.html
+Disallow: /projects.html
+Disallow: /radio.html
+
+User-agent: *
+Allow: /

@@ -134,6 +134,10 @@ a{
 .skills{
     list-style-type: square;
 }
+.skills-subtext {
+    list-style-position: inside;
+    padding-left: 2em;
+}
 .profile-pic-container{
     width: calc(40%);
     float: left;

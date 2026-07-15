@@ -82,7 +82,7 @@ div.text-content-right{
 }
 div.text-content-center{
     background-color: #d3e0cd46;
-    width:calc(60%);
+    width:calc(80%);
     float: center;
     margin: auto;
 }
@@ -158,14 +158,24 @@ a{
     color:rgb(205, 233, 217);
     background-color: #d3e0cd46;
 }
-.ach-list-ctf{
-    padding-left: 15%;
-    padding-right: 15%;
-}
 .ach-subheader{
     background-color:#d3e0cd46;
     text-align: center;
     padding: 0%;
+}
+.ach-list{
+    margin: auto;
+    float: center;
+    text-align: center;
+}
+.ach-list-item {
+    list-style-type: none ;
+}
+.ach-ctf-list {
+    margin: auto;
+}
+.ach-item {
+    background-color:#d3e0cd46
 }
 .badge{
     background-color:#d3e0cd77;
@@ -225,6 +235,7 @@ a{
         width:calc(90%);
         float: center;
         margin: auto;
+        padding: 1em;
     }
     div.art-item{
         width: calc(99%);
